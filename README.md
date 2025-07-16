@@ -26,9 +26,7 @@ The project includes multiple charts to understand content trends:
 - 📊 **Bar chart** – Count of content per platform  
 - 🥧 **Pie charts** – Genre and platform distribution  
 - 📈 **Line charts** – Titles released per year  
-- 🌐 **WordCloud** – Most frequent words in descriptions/genres  
-- 🔲 **Treemap** – Genre diversity by platform  
-- 🔵 **Scatter plot** – Duration vs. release year/type  
+- 🌐 **WordCloud** – Most frequent words in descriptions/genres 
 
 ---
 
