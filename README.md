@@ -1,4 +1,5 @@
 🎬 OTT Content Dashboard & Recommender
+
 This project analyzes and recommends TV shows and movies from major OTT platforms — Netflix, Amazon Prime, Hulu, and Disney+. Using cleaned and merged datasets, it explores content trends across platforms through visualizations like pie charts, line charts, scatter plots, and treemaps.
 
 A content-based recommendation system is built using TF-IDF and cosine similarity. It includes:
