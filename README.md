@@ -1,6 +1,6 @@
 # 🎬 OTT Content Dashboard & Recommender
 
-This project analyzes and recommends TV shows and movies from major OTT platforms — **Netflix**, **Amazon Prime**, **Hulu**, and **Disney+**. Using cleaned and merged datasets, it explores content trends across platforms through engaging visualizations like **pie charts**, **line charts**, **scatter plots**, and **treemaps**.
+This project analyzes and recommends TV shows and movies from major OTT platforms — **Netflix**, **Amazon Prime**, **Hulu**, and **Disney+**. Using cleaned and merged datasets, it explores content trends across platforms through engaging visualizations like **pie charts**, **line charts** and **WordCloud**.
 
 ---
 
@@ -38,7 +38,6 @@ To demonstrate practical skills in:
 - Exploratory data analysis (EDA)
 - Text-based machine learning
 - Visual storytelling using real-world data
-- Code modularity and readability
 
 This project is structured for further deployment via **Streamlit** or **dashboard tools** like **Power BI**.
 
@@ -60,5 +59,4 @@ This project is structured for further deployment via **Streamlit** or **dashboa
 - Recommender system practice  
 
 ---
-
-Feel free to fork, improve, or integrate into your own dashboard!
+Feel free to fork this project, give credit where due, and build something even better!
